@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+
+  <country>
+    <Name>France</Name>
+    <Xl>1</Xl>
+    <Yl>4</Yl>
+    <Xh>5</Xh>
+    <Yh>7</Yh>
+    <Color>Orange</Color>
+  </country>
+
+  <country>
+    <Name>Netherlands</Name>
+    <Xl>3</Xl>
+    <Yl>1</Yl>
+    <Xh>6</Xh>
+    <Yh>4</Yh>
+    <Color>Blue</Color>
+  </country>
+
+  <country>
+    <Name>Poland</Name>
+    <Xl>6</Xl>
+    <Yl>2</Yl>
+    <Xh>10</Xh>
+    <Yh>4</Yh>
+    <Color>Yellow</Color>
+  </country>
+
+  <country>
+    <Name>Belorussia</Name>
+    <Xl>10</Xl>
+    <Yl>1</Yl>
+    <Xh>13</Xh>
+    <Yh>3</Yh>
+    <Color>White</Color>
+  </country>
+
+  <country>
+    <Name>Ukraine</Name>
+    <Xl>10</Xl>
+    <Yl>3</Yl>
+    <Xh>14</Xh>
+    <Yh>7</Yh>
+    <Color>Red</Color>
+  </country>
+
+  <country>
+    <Name>Austria</Name>
+    <Xl>5</Xl>
+    <Yl>4</Yl>
+    <Xh>8</Xh>
+    <Yh>6</Yh>
+    <Color>Green</Color>
+  </country>
+
+  <country>
+    <Name>Rumania</Name>
+    <Xl>6</Xl>
+    <Yl>6</Yl>
+    <Xh>10</Xh>
+    <Yh>8</Yh>
+    <Color>LightGreen</Color>
+  </country>
+  
+</countries>

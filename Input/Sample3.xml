@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>  
+    <country>
+      <Name>France</Name>
+      <Xl>1</Xl>
+      <Yl>4</Yl>
+      <Xh>5</Xh>
+      <Yh>8</Yh>
+      <Color>Orange</Color>
+    </country>
+  
+    <country>
+      <Name>Netherlands</Name>
+      <Xl>3</Xl>
+      <Yl>1</Yl>
+      <Xh>6</Xh>
+      <Yh>4</Yh>
+      <Color>Blue</Color>
+    </country>
+  
+    <country>
+      <Name>Austria</Name>
+      <Xl>5</Xl>
+      <Yl>4</Yl>
+      <Xh>8</Xh>      
+      <Yh>6</Yh>
+      <Color>Green</Color>
+    </country>
+</countries>

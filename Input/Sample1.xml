@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>  
+    <country>
+      <Name>Luxembourg</Name>
+      <Xl>1</Xl>
+      <Yl>1</Yl>
+      <Xh>2</Xh>      
+      <Yh>2</Yh>
+      <Color>Blue</Color>
+    </country>
+</countries>
